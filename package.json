@@ -1,0 +1,12 @@
+{
+  "name": "tavolaroremoto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mercadoLiebre.js",
+  "scripts": {
+    "start": "nodemon mercadoLiebre.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
