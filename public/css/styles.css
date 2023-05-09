@@ -36,9 +36,43 @@ header .buscador .lupa{
 header div.burger-menu i{
     color: white;
     background-color:#1259c3;
-    
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px 0px 20px 0px;
+    border-radius: 5px;
 }
 
 header div.burger-menu {
     text-align: center;
+}
+
+p{
+    font-style: 12px;
+}
+
+body main section h3{
+font-size: 24px;
+}
+
+section article .precios{
+    font-size: 18px;
+}
+
+section article .descuentos{
+    font-size: 16px;
+}
+
+footer main article i{
+    color: #1259c3;
+    font-size: 2em;
+    margin: 0px 0px 10px 0px;
+
+}
+footer main article{
+    text-align: center;
+}
+
+footer main article .copy{
+    color: grey;
+    font-size: 10px;
 }
