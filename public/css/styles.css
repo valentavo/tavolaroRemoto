@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #EAC926;
+}
+header p{
+    text-align: center;
+}
+
+header nav ul li a {
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul li {
+    list-style-type: none;
+}
+
+header .buscador .input{
+    background-color: white;
+    border: 1px solid black;
+    color: #666;
+    width: max-content;
+}
+
+header .buscador .lupa{
+    background-color: white;
+    border: 1px solid black;
+    color: #666;
+    width: 20px;
+}
+
+header div.burger-menu i{
+    color: white;
+    background-color:#1259c3;
+    
+}
+
+header div.burger-menu {
+    text-align: center;
+}
